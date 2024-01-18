@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carol Barno</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carolbarno" alt="carolbarno" /></a> </p>
-
 - 🔭 I’m currently working on **developing modern applications using Node.js, SQL Server, Angular, NextJs, and FastAPI at Innovex Solutions.**
 
 - 🌱 I’m currently learning **AI/ML advancements and refining my skills in prompt engineering.**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolbarno&show_icons=true&locale=en&layout=compact" alt="carolbarno" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolbarno&show_icons=true&locale=en" alt="carolbarno" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carolbarno&" alt="carolbarno" /></p>
