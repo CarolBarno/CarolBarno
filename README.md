@@ -56,17 +56,8 @@ My interests extend beyond writing code. I'm particularly interested in **backen
 
 <p align="center">
   <a href="https://wakatime.com/@Barno">
-    <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Barno&layout=compact&hide_border=true&langs_count=8&custom_title=Coding%20Activity"
-      alt="WakaTime Coding Activity"
-    />
+    <strong>View my coding activity on WakaTime →</strong>
   </a>
-</p>
-
-<p align="center">
-  <sub>
-    Coding activity tracked with WakaTime across my development work.
-  </sub>
 </p>
 
 ## Outside of Code
