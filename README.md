@@ -5,28 +5,34 @@
 </p>
 
 <p align="center">
-  I build reliable, scalable applications and enjoy solving complex problems with technology.
+  Building reliable software, solving real-world problems, and continuously learning.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/carol-barno-3a2055163">LinkedIn</a>
-  ·
-  <a href="https://wakatime.com/@Barno">WakaTime</a>
-  ·
-  <a href="https://twitter.com/_cbarno">Twitter</a>
+  <a href="https://linkedin.com/in/carol-barno-3a2055163">
+    LinkedIn
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://wakatime.com/@Barno">
+    WakaTime
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://twitter.com/_cbarno">
+    Twitter
+  </a>
 </p>
 
 ## About Me
 
-I'm a software engineer based in Kenya, focused on building **modern, maintainable, and scalable software** across the frontend, backend, and data layers.
+I'm a software engineer based in Kenya, focused on building **modern, maintainable, and scalable applications** across the frontend, backend, and data layers.
 
-I currently work at **Innovex Solutions**, where I develop production applications using technologies such as **Node.js, Angular, Next.js, FastAPI, and SQL Server**.
+I currently work at **Innovex Solutions**, where I build production applications using technologies including **Node.js, Angular, Next.js, FastAPI, and SQL Server**.
 
-I'm particularly interested in **backend engineering, APIs, software architecture, developer productivity, and applying AI to real-world software development**.
+My interests extend beyond writing code. I'm particularly interested in **backend engineering, APIs, software architecture, developer productivity, and practical applications of AI in software development**.
 
-### What I'm focused on
+### Currently focused on
 
-* Building scalable and maintainable software
+* Building scalable and maintainable applications
 * Designing APIs and backend systems
 * Improving software architecture and engineering practices
 * Exploring **AI/ML, LLMs, and prompt engineering**
@@ -51,8 +57,8 @@ I'm particularly interested in **backend engineering, APIs, software architectur
 <p align="center">
   <a href="https://wakatime.com/@Barno">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Barno&layout=compact&theme=transparent&hide_border=true"
-      alt="WakaTime coding activity"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Barno&layout=compact&hide_border=true&langs_count=8&custom_title=Coding%20Activity"
+      alt="WakaTime Coding Activity"
     />
   </a>
 </p>
